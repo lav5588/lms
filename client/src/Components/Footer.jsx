@@ -11,19 +11,19 @@ export default function Footer() {
       </span>
       <div className="flex gap-5 items-center">
         <a
-          href="#"
+          href="https://www.facebook.com/thinkingboy.lavkumaryadav"
           className="md:text-3xl text-xl text-gray-900 dark:text-slate-50 hover:text-gray-500 dark:hover:text-slate-300"
         >
           <BsFacebook />
         </a>
         <a
-          href="#"
+          href="https://www.instagram.com/the_lav_kumar/"
           className="md:text-3xl text-xl text-gray-900 dark:text-slate-50 hover:text-gray-500 dark:hover:text-slate-300"
         >
           <BsInstagram />
         </a>
         <a
-          href="#"
+          href="https://www.linkedin.com/in/lav-kumar-yadav-b26853223/"
           className="md:text-3xl text-xl text-gray-900 dark:text-slate-50 hover:text-gray-500 dark:hover:text-slate-300"
         >
           <BsLinkedin />
