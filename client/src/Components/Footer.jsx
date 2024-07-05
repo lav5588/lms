@@ -12,18 +12,21 @@ export default function Footer() {
       <div className="flex gap-5 items-center">
         <a
           href="https://www.facebook.com/thinkingboy.lavkumaryadav"
+          target="_blank"
           className="md:text-3xl text-xl text-gray-900 dark:text-slate-50 hover:text-gray-500 dark:hover:text-slate-300"
         >
           <BsFacebook />
         </a>
         <a
           href="https://www.instagram.com/the_lav_kumar/"
+          target="_blank"
           className="md:text-3xl text-xl text-gray-900 dark:text-slate-50 hover:text-gray-500 dark:hover:text-slate-300"
         >
           <BsInstagram />
         </a>
         <a
           href="https://www.linkedin.com/in/lav-kumar-yadav-b26853223/"
+          target="_blank"
           className="md:text-3xl text-xl text-gray-900 dark:text-slate-50 hover:text-gray-500 dark:hover:text-slate-300"
         >
           <BsLinkedin />
